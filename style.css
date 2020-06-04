@@ -1,0 +1,18 @@
+h1 {
+    color: whitesmoke;
+}
+
+.header {
+    background-color: teal;
+}
+
+.items {
+    background-color: slategray;
+    align-content: space-between;
+}
+
+.p {
+    color: black;
+    background-color: tomato;
+    justify-content: space-evenly;
+}
